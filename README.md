@@ -8,7 +8,7 @@
 5. [Recommendations](#recommendations)
    - [SWOT Analysis — Determining the Room Types](#swot-analysis--determining-the-room-types)
    - [Room Type Specific Recommendation](#room-type-specific-recommendation)
-6. [Tableau Link](#Tableau-Link)
+6. [Tableau Link](#tableau-link)
 ---
 
 # 1. Background in Information
