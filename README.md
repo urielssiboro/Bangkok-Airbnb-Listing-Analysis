@@ -1,14 +1,14 @@
 # Airbnb Bangkok Data Analysis
 
 ## Table of Contents
-1. [Background in Information](#background-in-information)
-2. [Problem Statement and Business Questions](#problem-statement-and-business-questions)
-3. [Features](#features)
-4. [Data Cleaning](#data-cleaning)
-5. [Recommendations](#recommendations)
+1. [Background in Information](#1-background-in-information)
+2. [Problem Statement and Business Questions](#2-problem-statement-and-business-questions)
+3. [Features](#3-features)
+4. [Data Cleaning](#4-data-cleaning)
+5. [Recommendations](#5-recommendations)
    - [SWOT Analysis — Determining the Room Types](#swot-analysis--determining-the-room-types)
    - [Room Type Specific Recommendation](#room-type-specific-recommendation)
-6. [Tableau Link](#tableau-link)
+6. [Tableau Link](#6-tableau-link)
 ---
 
 # 1. Background in Information
