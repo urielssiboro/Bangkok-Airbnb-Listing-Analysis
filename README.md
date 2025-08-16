@@ -11,7 +11,7 @@
 
 ---
 
-# 1.Background in Information
+# 1. Background in Information
 
 The short-term rental market in Thailand—especially in tourism hubs like Bangkok—is experiencing rapid growth. Platforms such as Airbnb have opened opportunities for property owners and managers to reach a global audience.
 
@@ -23,9 +23,9 @@ However, many stakeholders still rely on intuition or inconsistent strategies fo
 
 ---
 
-# 2.Problem Statement and Business Questions
+# 2. Problem Statement and Business Questions
 
-## .Problem Statement
+## Problem Statement
 
 The short-term rental market in Thailand—especially in tourism hubs like Bangkok—is experiencing rapid growth. Platforms such as Airbnb have opened opportunities for property owners and managers to reach a global audience.
 
@@ -168,7 +168,7 @@ High Demand vs All Listings
 
 ---
 
-# 3.Features
+# 3. Features
 
 ## Feature Information
 
@@ -195,7 +195,7 @@ High Demand vs All Listings
 
 ---
 
-# 4.Data Cleaning
+# 4. Data Cleaning
 
 steps of cleaning: 
 
@@ -227,7 +227,7 @@ documentation of cleaning:
 
 ---
 
-# 5.Recommendations
+# 5. Recommendations
 
 ## SWOT Analysis — Determining the Room Types
 
