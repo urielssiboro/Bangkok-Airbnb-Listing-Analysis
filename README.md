@@ -8,7 +8,7 @@
 5. [Recommendations](#recommendations)
    - [SWOT Analysis — Determining the Room Types](#swot-analysis--determining-the-room-types)
    - [Room Type Specific Recommendation](#room-type-specific-recommendation)
-
+6. [Tableau Link](#Tableau-Link)
 ---
 
 # 1. Background in Information
@@ -387,3 +387,6 @@ documentation of cleaning:
   Maintain highly competitive, low rates to capture budget travelers, with optional upsells for lockers, breakfast, or tours.
   - Lower bound price: ~฿390
   - Upper bound price: ~฿650
+
+# 6. Tableau Link
+Access tableau dashboard here: https://public.tableau.com/app/profile/uriel.siboro/viz/Airbnb_17551116230080/Dashboard1?publish=yes
