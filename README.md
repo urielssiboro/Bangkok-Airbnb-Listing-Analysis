@@ -389,4 +389,4 @@ documentation of cleaning:
   - Upper bound price: ~฿650
 
 # 6. Tableau Link
-Access tableau dashboard here: https://public.tableau.com/app/profile/uriel.siboro/viz/Airbnb_17551116230080/Dashboard1?publish=yes
+Access tableau dashboard here: https://public.tableau.com/app/profile/uriel.siboro/viz/Airbnb_17551116230080/Dashboard1?publish=yes](https://public.tableau.com/app/profile/uriel.siboro/viz/Airbnb_17551116230080/Dashboard1?publish=yes
