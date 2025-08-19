@@ -37,6 +37,11 @@ However, many stakeholders still rely on intuition or inconsistent strategies fo
 
 - Identify pricing based on property and locations
 
+**Main question:**
+
+**How should renters and property managers position their listings?**
+
+
 This analysis uses Bangkok Airbnb data to address the following key business questions:
 
 
